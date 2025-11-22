@@ -1,0 +1,616 @@
+[
+  {
+    "id": "russia-ukraine-ceasefire-2025",
+    "title": "Russia x Ukraine ceasefire in 2025?",
+    "type": "binary",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Yes", "percentage": 16 },
+      { "name": "No", "percentage": 84 }
+    ],
+    "volume": "$34m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Ukraine", "Russia", "Geopolitics"],
+    "icon": "card"
+  },
+  {
+    "id": "fed-decision-december",
+    "title": "Fed decision in December?",
+    "type": "multiple",
+    "category": "Finance",
+    "outcomes": [
+      { "name": "50+ bps decrease", "percentage": 2 },
+      { "name": "25 bps decrease", "percentage": 64 },
+      { "name": "No change", "percentage": 34 },
+      { "name": "25+ bps increase", "percentage": 0 }
+    ],
+    "volume": "$144m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Fed", "Finance", "Economics"],
+    "icon": "repeat"
+  },
+  {
+    "id": "trump-epstein-files",
+    "title": "Will Trump release Epstein files by...?",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "November 30", "percentage": 6 },
+      { "name": "December 31", "percentage": 78 }
+    ],
+    "volume": "$1m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Trump", "Epstein"],
+    "icon": "card"
+  },
+  {
+    "id": "elon-musk-tweets",
+    "title": "Elon Musk # tweets November 18 - November 25, 2025?",
+    "type": "multiple",
+    "category": "Tech",
+    "outcomes": [
+      { "name": "120-139", "percentage": 13 },
+      { "name": "140-159", "percentage": 31 },
+      { "name": "160-179", "percentage": 24 },
+      { "name": "180-199", "percentage": 15 },
+      { "name": "200-219", "percentage": 7 }
+    ],
+    "volume": "$7m Vol.",
+    "endDate": "2025-11-25",
+    "isLive": false,
+    "tags": ["Tech", "Elon"],
+    "icon": "repeat"
+  },
+  {
+    "id": "tigers-vs-sooners",
+    "title": "Tigers vs Sooners",
+    "type": "sports",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Tigers", "percentage": 45, "score": 3 },
+      { "name": "Sooners", "percentage": 56, "score": 0 }
+    ],
+    "volume": "$2m Vol.",
+    "endDate": "2025-11-22",
+    "isLive": true,
+    "tags": ["CFB", "Sports"],
+    "icon": "sports"
+  },
+  {
+    "id": "clippers-vs-hornets",
+    "title": "Clippers vs Hornets",
+    "type": "sports",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Clippers", "percentage": 52 },
+      { "name": "Hornets", "percentage": 49 }
+    ],
+    "volume": "$856k Vol.",
+    "endDate": "2025-11-22",
+    "isLive": false,
+    "gameTime": "6:00 PM",
+    "tags": ["NBA", "Sports"],
+    "icon": "sports"
+  },
+  {
+    "id": "trump-fed-chair",
+    "title": "Who will Trump nominate as Fed Chair?",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Kevin Hassett", "percentage": 39 },
+      { "name": "Christopher Waller", "percentage": 21 },
+      { "name": "Kevin Warsh", "percentage": 17 },
+      { "name": "Rick Rieder", "percentage": 12 },
+      { "name": "Scott Bessent", "percentage": 4 }
+    ],
+    "volume": "$8m Vol.",
+    "endDate": "2026-02-01",
+    "isLive": false,
+    "tags": ["Trump", "Fed", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "epstein-client-list-2025",
+    "title": "Epstein client list released in 2025?",
+    "type": "binary",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Yes", "percentage": 7 },
+      { "name": "No", "percentage": 93 }
+    ],
+    "volume": "$136k Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Epstein", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "maduro-out",
+    "title": "Maduro out by...?",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "November 30, 2025", "percentage": 5 },
+      { "name": "December 31, 2025", "percentage": 19 },
+      { "name": "March 31, 2026", "percentage": 40 }
+    ],
+    "volume": "$12m Vol.",
+    "endDate": "2026-03-31",
+    "isLive": false,
+    "tags": ["Venezuela", "Geopolitics"],
+    "icon": "card"
+  },
+  {
+    "id": "chile-presidential-election",
+    "title": "Chile Presidential Election",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "José Antonio Kast", "percentage": 95 },
+      { "name": "Jeannette Jara", "percentage": 4 }
+    ],
+    "volume": "$79m Vol.",
+    "endDate": "2025-11-30",
+    "isLive": false,
+    "tags": ["Chile Election", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "ai-bubble-burst",
+    "title": "AI bubble burst by...?",
+    "type": "multiple",
+    "category": "Tech",
+    "outcomes": [
+      { "name": "December 31, 2025", "percentage": 3 },
+      { "name": "March 31, 2026", "percentage": 18 },
+      { "name": "December 31, 2026", "percentage": 47 }
+    ],
+    "volume": "$73k Vol.",
+    "endDate": "2026-12-31",
+    "isLive": false,
+    "tags": ["AI", "Tech", "Finance"],
+    "icon": "card"
+  },
+  {
+    "id": "time-person-of-year-2025",
+    "title": "Time 2025 Person of the Year",
+    "type": "multiple",
+    "category": "Culture",
+    "outcomes": [
+      { "name": "Artificial Intelligence", "percentage": 39 },
+      { "name": "Jensen Huang", "percentage": 18 },
+      { "name": "Pope Leo XIV", "percentage": 13 },
+      { "name": "Donald Trump", "percentage": 8 },
+      { "name": "Sam Altman", "percentage": 6 }
+    ],
+    "volume": "$6m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Culture", "AI"],
+    "icon": "card"
+  },
+  {
+    "id": "xi-jinping-out-2027",
+    "title": "Xi Jinping out before 2027?",
+    "type": "binary",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Yes", "percentage": 12 },
+      { "name": "No", "percentage": 88 }
+    ],
+    "volume": "$3m Vol.",
+    "endDate": "2027-01-01",
+    "isLive": false,
+    "tags": ["China", "Geopolitics"],
+    "icon": "repeat"
+  },
+  {
+    "id": "game-of-year-2025",
+    "title": "Game of the Year 2025",
+    "type": "multiple",
+    "category": "Culture",
+    "outcomes": [
+      { "name": "Clair Obscur: Expedition 33", "percentage": 92 },
+      { "name": "Hollow Knight: Silksong", "percentage": 4 },
+      { "name": "Donkey Kong Bananza", "percentage": 2 },
+      { "name": "Death Stranding 2", "percentage": 2 }
+    ],
+    "volume": "$18m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Culture", "Gaming"],
+    "icon": "card"
+  },
+  {
+    "id": "green-wave-vs-owls",
+    "title": "Green Wave vs Owls",
+    "type": "sports",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Green Wave", "percentage": 71 },
+      { "name": "Owls", "percentage": 30 }
+    ],
+    "volume": "$2m Vol.",
+    "endDate": "2025-11-22",
+    "isLive": false,
+    "gameTime": "8:45 PM",
+    "tags": ["CFB", "Sports"],
+    "icon": "sports"
+  },
+  {
+    "id": "bitcoin-price-2025",
+    "title": "What price will Bitcoin hit in 2025?",
+    "type": "multiple",
+    "category": "Crypto",
+    "outcomes": [
+      { "name": "↑ 120,000", "percentage": 8 },
+      { "name": "↑ 110,000", "percentage": 15 },
+      { "name": "↑ 100,000", "percentage": 37 },
+      { "name": "↓ 80,000", "percentage": 68 },
+      { "name": "↓ 70,000", "percentage": 29 }
+    ],
+    "volume": "$63m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Bitcoin", "Crypto"],
+    "icon": "repeat"
+  },
+  {
+    "id": "ethereum-november",
+    "title": "What price will Ethereum hit in November?",
+    "type": "multiple",
+    "category": "Crypto",
+    "outcomes": [
+      { "name": "↑ 4,000", "percentage": 1 },
+      { "name": "↓ 2,600", "percentage": 61 },
+      { "name": "↓ 2,400", "percentage": 23 },
+      { "name": "↓ 2,200", "percentage": 9 },
+      { "name": "↓ 2,000", "percentage": 4 }
+    ],
+    "volume": "$20m Vol.",
+    "endDate": "2025-11-30",
+    "isLive": false,
+    "tags": ["Crypto", "Ethereum"],
+    "icon": "repeat"
+  },
+  {
+    "id": "republican-nominee-2028",
+    "title": "Republican Presidential Nominee 2028",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "J.D. Vance", "percentage": 55 },
+      { "name": "Marco Rubio", "percentage": 8 },
+      { "name": "Donald Trump", "percentage": 5 },
+      { "name": "Marjorie Taylor Greene", "percentage": 4 },
+      { "name": "Tucker Carlson", "percentage": 3 }
+    ],
+    "volume": "$97m Vol.",
+    "endDate": "2028-08-01",
+    "isLive": false,
+    "tags": ["US Election", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "premier-league-winner",
+    "title": "English Premier League Winner",
+    "type": "multiple",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Arsenal", "percentage": 53 },
+      { "name": "Man City", "percentage": 32 },
+      { "name": "Chelsea", "percentage": 6 },
+      { "name": "Liverpool", "percentage": 5 },
+      { "name": "Man United", "percentage": 2 }
+    ],
+    "volume": "$109m Vol.",
+    "endDate": "2026-05-31",
+    "isLive": false,
+    "tags": ["Sports", "Soccer"],
+    "icon": "card"
+  },
+  {
+    "id": "bitcoin-november",
+    "title": "What price will Bitcoin hit in November?",
+    "type": "multiple",
+    "category": "Crypto",
+    "outcomes": [
+      { "name": "↓ 80,000", "percentage": 46 },
+      { "name": "↓ 75,000", "percentage": 18 },
+      { "name": "↓ 70,000", "percentage": 7 },
+      { "name": "↓ 65,000", "percentage": 3 },
+      { "name": "↓ 60,000", "percentage": 2 }
+    ],
+    "volume": "$41m Vol.",
+    "endDate": "2025-11-30",
+    "isLive": false,
+    "tags": ["Bitcoin", "Crypto"],
+    "icon": "repeat"
+  },
+  {
+    "id": "hooker-vs-tsarukyan",
+    "title": "Dan Hooker vs Arman Tsarukyan",
+    "type": "sports",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Dan Hooker", "percentage": 14 },
+      { "name": "Arman Tsarukyan", "percentage": 86 }
+    ],
+    "volume": "$1m Vol.",
+    "endDate": "2025-11-22",
+    "isLive": false,
+    "gameTime": "3:00 PM",
+    "tags": ["UFC", "Sports"],
+    "icon": "sports"
+  },
+  {
+    "id": "democratic-nominee-2028",
+    "title": "Democratic Presidential Nominee 2028",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Gavin Newsom", "percentage": 38 },
+      { "name": "Alexandria Ocasio-Cortez", "percentage": 12 },
+      { "name": "Pete Buttigieg", "percentage": 5 },
+      { "name": "Kamala Harris", "percentage": 4 },
+      { "name": "Jon Ossoff", "percentage": 4 }
+    ],
+    "volume": "$317m Vol.",
+    "endDate": "2028-08-01",
+    "isLive": false,
+    "tags": ["US Election", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "nba-champion-2026",
+    "title": "2026 NBA Champion",
+    "type": "multiple",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Oklahoma City Thunder", "percentage": 36 },
+      { "name": "Denver Nuggets", "percentage": 12 },
+      { "name": "Houston Rockets", "percentage": 8 },
+      { "name": "Cleveland Cavaliers", "percentage": 7 },
+      { "name": "Los Angeles Lakers", "percentage": 6 }
+    ],
+    "volume": "$55m Vol.",
+    "endDate": "2026-06-30",
+    "isLive": false,
+    "tags": ["NBA", "Sports"],
+    "icon": "card"
+  },
+  {
+    "id": "champions-league-winner",
+    "title": "UEFA Champions League Winner",
+    "type": "multiple",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Bayern Munich", "percentage": 19 },
+      { "name": "Arsenal", "percentage": 15 },
+      { "name": "Real Madrid", "percentage": 11 },
+      { "name": "PSG", "percentage": 10 },
+      { "name": "Liverpool", "percentage": 10 }
+    ],
+    "volume": "$81m Vol.",
+    "endDate": "2026-05-31",
+    "isLive": false,
+    "tags": ["Sports", "Soccer"],
+    "icon": "card"
+  },
+  {
+    "id": "super-bowl-2026",
+    "title": "Super Bowl Champion 2026",
+    "type": "multiple",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Philadelphia", "percentage": 15 },
+      { "name": "Los Angeles R", "percentage": 13 },
+      { "name": "Kansas City", "percentage": 9 },
+      { "name": "Detroit", "percentage": 8 },
+      { "name": "Buffalo", "percentage": 8 }
+    ],
+    "volume": "$561m Vol.",
+    "endDate": "2026-02-08",
+    "isLive": false,
+    "tags": ["NFL", "Sports"],
+    "icon": "card"
+  },
+  {
+    "id": "bitcoin-november-22",
+    "title": "Bitcoin above ___ on November 22?",
+    "type": "multiple",
+    "category": "Crypto",
+    "outcomes": [
+      { "name": "86,000", "percentage": 0 },
+      { "name": "88,000", "percentage": 0 },
+      { "name": "90,000", "percentage": 0 },
+      { "name": "92,000", "percentage": 0 },
+      { "name": "94,000", "percentage": 0 }
+    ],
+    "volume": "$3m Vol.",
+    "endDate": "2025-11-22",
+    "isLive": false,
+    "tags": ["Bitcoin", "Crypto"],
+    "icon": "repeat"
+  },
+  {
+    "id": "burnley-vs-chelsea",
+    "title": "Burnley FC vs Chelsea",
+    "type": "sports",
+    "category": "Sports",
+    "outcomes": [
+      { "name": "Burnley FC", "percentage": 0 },
+      { "name": "Chelsea", "percentage": 100 }
+    ],
+    "volume": "$1m Vol.",
+    "endDate": "2025-11-22",
+    "isLive": false,
+    "gameTime": "12:30 PM",
+    "tags": ["EPL", "Sports"],
+    "icon": "sports"
+  },
+  {
+    "id": "ukraine-peace-plan",
+    "title": "Ukraine agrees to US-approved peace plan by Thursday?",
+    "type": "binary",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Yes", "percentage": 16 },
+      { "name": "No", "percentage": 84 }
+    ],
+    "volume": "$169k Vol.",
+    "endDate": "2025-11-28",
+    "isLive": false,
+    "tags": ["Ukraine", "Geopolitics"],
+    "icon": "card"
+  },
+  {
+    "id": "ukraine-cede-territory",
+    "title": "Will Ukraine agree to cede territory to Russia in 2025?",
+    "type": "binary",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Yes", "percentage": 14 },
+      { "name": "No", "percentage": 86 }
+    ],
+    "volume": "$1m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Ukraine", "Russia", "Geopolitics"],
+    "icon": "card"
+  },
+  {
+    "id": "israel-hamas-ceasefire",
+    "title": "Israel x Hamas ceasefire cancelled by...?",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "November 30", "percentage": 12 },
+      { "name": "December 31", "percentage": 19 },
+      { "name": "March 31, 2026", "percentage": 43 }
+    ],
+    "volume": "$3m Vol.",
+    "endDate": "2026-03-31",
+    "isLive": false,
+    "tags": ["Israel", "Gaza", "Middle East"],
+    "icon": "card"
+  },
+  {
+    "id": "epstein-foreign-agent",
+    "title": "Epstein confirmed as foreign agent in 2025?",
+    "type": "binary",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Yes", "percentage": 3 },
+      { "name": "No", "percentage": 97 }
+    ],
+    "volume": "$150k Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Epstein", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "epstein-files-names",
+    "title": "Who will be named in newly released Epstein files?",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Ehud Barak", "percentage": 57 },
+      { "name": "Sean Combs", "percentage": 51 },
+      { "name": "David Koch", "percentage": 51 },
+      { "name": "Alec Baldwin", "percentage": 40 },
+      { "name": "Tony Blair", "percentage": 40 }
+    ],
+    "volume": "$646k Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Epstein", "Politics"],
+    "icon": "card"
+  },
+  {
+    "id": "monad-token-price",
+    "title": "Monad opening day token price?",
+    "type": "multiple",
+    "category": "Crypto",
+    "outcomes": [
+      { "name": "$200M", "percentage": 100 },
+      { "name": "$225M", "percentage": 96 },
+      { "name": "$250M", "percentage": 60 },
+      { "name": "$275M", "percentage": 22 },
+      { "name": "$300M", "percentage": 12 }
+    ],
+    "volume": "$21m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Crypto", "Monad"],
+    "icon": "card"
+  },
+  {
+    "id": "stock-market-crash-2025",
+    "title": "Stock market crash in 2025?",
+    "type": "binary",
+    "category": "Finance",
+    "outcomes": [
+      { "name": "Yes", "percentage": 23 },
+      { "name": "No", "percentage": 77 }
+    ],
+    "volume": "$12m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Finance", "Economy"],
+    "icon": "card"
+  },
+  {
+    "id": "trump-x-talks",
+    "title": "Who will Trump talk to on X in December?",
+    "type": "multiple",
+    "category": "Politics",
+    "outcomes": [
+      { "name": "Elon Musk", "percentage": 78 },
+      { "name": "Tucker Carlson", "percentage": 45 },
+      { "name": "Joe Rogan", "percentage": 34 },
+      { "name": "Ben Shapiro", "percentage": 12 }
+    ],
+    "volume": "$4m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Trump", "Tech"],
+    "icon": "card"
+  },
+  {
+    "id": "recession-2025",
+    "title": "US Recession in 2025?",
+    "type": "binary",
+    "category": "Finance",
+    "outcomes": [
+      { "name": "Yes", "percentage": 31 },
+      { "name": "No", "percentage": 69 }
+    ],
+    "volume": "$45m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Finance", "Economy"],
+    "icon": "card"
+  },
+  {
+    "id": "taylor-swift-album",
+    "title": "Taylor Swift releases new album in 2025?",
+    "type": "binary",
+    "category": "Culture",
+    "outcomes": [
+      { "name": "Yes", "percentage": 67 },
+      { "name": "No", "percentage": 33 }
+    ],
+    "volume": "$2m Vol.",
+    "endDate": "2025-12-31",
+    "isLive": false,
+    "tags": ["Culture", "Music"],
+    "icon": "card"
+  }
+]
+
